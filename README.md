@@ -34,4 +34,4 @@ Question: The design specifications for the MechaCar suspension coils dictate th
 
 ## Study Design: MechaCar vs Competition
 
-One important variable in the selection of a car is gas mileage (mpg). A null hypothesis could be that the average maximum gas mileage of two sample datasets collected from two separate car models under identical testing conditions is zero. We could use a two-sample t-test for this because it shows whether a stastical difference exists between two ditribution means and since the datatype for mpg is continous (though we typically round it).
+One important variable in the selection of a car is gas mileage (mpg). A null hypothesis could be that the average maximum gas mileage of two sample datasets collected from two separate car models under identical testing conditions is zero. We could use a two-sample t-test for this because it shows whether a statistical difference exists between two distribution means, and that the datatype for mpg is continuous (though we typically round it).
