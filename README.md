@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 <p align="center">
-  <img width=auto height="500" src=Resources/lin_reg_mpg.png>
+  <img width=auto height="500" src=images/lin_reg_mpg.png>
   </p>
 
 - Since the p-values ( "Pr(>|t|)" ) of the **vehicle_length** and **ground_clearance** variables were less than 0.05, they have a significant impact (they added a non-random amount of variance) on the mpg values in the dataset.
