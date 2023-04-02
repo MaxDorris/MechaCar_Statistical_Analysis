@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 <p align="center">
-  <img width=auto height="500" src=images/lin_reg_mpg.png>
+  <img width=80% height=auto src=images/lin_reg_mpg.png>
   </p>
 
 - Since the p-values ( "Pr(>|t|)" ) of the **vehicle_length** and **ground_clearance** variables were less than 0.05, they have a significant impact (they added a non-random amount of variance) on the mpg values in the dataset.
@@ -17,7 +17,7 @@
   </p>
 
 <p align="center">
-  <img width=auto height="500" src=images/lot_sum.png>
+  <img width=80% height=auto src=images/lot_sum.png>
   </p>
 
 Question: The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -27,7 +27,7 @@ Question: The design specifications for the MechaCar suspension coils dictate th
 ## T-Tests on Suspension Coils
 
 <p align="center">
-  <img width=auto height="500" src=images/t-tests.png>
+  <img width=80% height=auto src=images/t-tests.png>
   </p>
 
 - If our null-hypothesis is that our samples' difference from the population mean is zero, and we reject this hypothesis for all p values less than or equal to our significance value of 0.05, we reject the null hypothesis for lot 3. This means that lot 1 and lot 2 are statistically similar to the population.
