@@ -13,7 +13,7 @@
 ## Summary Statistics on Suspension Coils
 
 <p align="center">
-  <img width=auto height="500" src=images/total_sum.png>
+  <img width=80% height=auto src=images/total_sum.png>
   </p>
 
 <p align="center">
